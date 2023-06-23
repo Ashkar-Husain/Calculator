@@ -1,0 +1,28 @@
+body{
+    background-image: url(images/background.jpg);
+    background-size: cover; background-repeat: no-repeat;
+}
+.container{
+    border: 2px solid gray;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 25%;
+}
+button{
+    width: 100%;
+    background-color: black;
+    color:white;
+    height:50px; font-size: 25px;
+}
+input{
+  width: 98%;  
+  height: 60px;
+  background-color: gray;
+  font-size: 30px; text-align: right;
+}
